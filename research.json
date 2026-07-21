@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-07-21",
+  "methodologyVersion": "1.1",
+  "windowDays": 90,
+  "aiTraffic": {
+    "monthly": [
+      {
+        "month": "2025-07",
+        "visits": 7,
+        "organicVisits": 4145,
+        "sites": 9,
+        "sharePct": 0.169,
+        "perSite": 0.8
+      },
+      {
+        "month": "2025-08",
+        "visits": 14,
+        "organicVisits": 5510,
+        "sites": 8,
+        "sharePct": 0.254,
+        "perSite": 1.8
+      },
+      {
+        "month": "2025-09",
+        "visits": 17,
+        "organicVisits": 6772,
+        "sites": 10,
+        "sharePct": 0.251,
+        "perSite": 1.7
+      },
+      {
+        "month": "2025-10",
+        "visits": 18,
+        "organicVisits": 7756,
+        "sites": 10,
+        "sharePct": 0.232,
+        "perSite": 1.8
+      },
+      {
+        "month": "2025-11",
+        "visits": 18,
+        "organicVisits": 6533,
+        "sites": 9,
+        "sharePct": 0.276,
+        "perSite": 2
+      },
+      {
+        "month": "2025-12",
+        "visits": 19,
+        "organicVisits": 6647,
+        "sites": 10,
+        "sharePct": 0.286,
+        "perSite": 1.9
+      },
+      {
+        "month": "2026-01",
+        "visits": 24,
+        "organicVisits": 8824,
+        "sites": 11,
+        "sharePct": 0.272,
+        "perSite": 2.2
+      },
+      {
+        "month": "2026-02",
+        "visits": 25,
+        "organicVisits": 11258,
+        "sites": 11,
+        "sharePct": 0.222,
+        "perSite": 2.3
+      },
+      {
+        "month": "2026-03",
+        "visits": 17,
+        "organicVisits": 13067,
+        "sites": 12,
+        "sharePct": 0.13,
+        "perSite": 1.4
+      },
+      {
+        "month": "2026-04",
+        "visits": 18,
+        "organicVisits": 13205,
+        "sites": 11,
+        "sharePct": 0.136,
+        "perSite": 1.6
+      },
+      {
+        "month": "2026-05",
+        "visits": 33,
+        "organicVisits": 15568,
+        "sites": 11,
+        "sharePct": 0.212,
+        "perSite": 3
+      },
+      {
+        "month": "2026-06",
+        "visits": 35,
+        "organicVisits": 13689,
+        "sites": 12,
+        "sharePct": 0.256,
+        "perSite": 2.9
+      }
+    ],
+    "last90": {
+      "aiVisits": 89,
+      "organicVisits": 43721,
+      "sharePct": 0.2
+    },
+    "engines": [
+      {
+        "name": "ChatGPT",
+        "visits": 62
+      },
+      {
+        "name": "Perplexity",
+        "visits": 26
+      },
+      {
+        "name": "Gemini",
+        "visits": 1
+      }
+    ],
+    "landings": {
+      "home": 45,
+      "inner": 30,
+      "blog": 14
+    },
+    "sites": 12
+  },
+  "enginesShare": [
+    {
+      "month": "2025-06",
+      "organic": 6839,
+      "google": 3693,
+      "googlePct": 54
+    },
+    {
+      "month": "2025-07",
+      "organic": 4145,
+      "google": 1339,
+      "googlePct": 32.3
+    },
+    {
+      "month": "2025-08",
+      "organic": 5510,
+      "google": 1691,
+      "googlePct": 30.7
+    },
+    {
+      "month": "2025-09",
+      "organic": 6772,
+      "google": 1945,
+      "googlePct": 28.7
+    },
+    {
+      "month": "2025-10",
+      "organic": 7756,
+      "google": 2272,
+      "googlePct": 29.3
+    },
+    {
+      "month": "2025-11",
+      "organic": 6533,
+      "google": 1784,
+      "googlePct": 27.3
+    },
+    {
+      "month": "2025-12",
+      "organic": 6647,
+      "google": 1795,
+      "googlePct": 27
+    },
+    {
+      "month": "2026-01",
+      "organic": 8824,
+      "google": 2249,
+      "googlePct": 25.5
+    },
+    {
+      "month": "2026-02",
+      "organic": 11258,
+      "google": 2236,
+      "googlePct": 19.9
+    },
+    {
+      "month": "2026-03",
+      "organic": 13067,
+      "google": 2299,
+      "googlePct": 17.6
+    },
+    {
+      "month": "2026-04",
+      "organic": 13205,
+      "google": 2364,
+      "googlePct": 17.9
+    },
+    {
+      "month": "2026-05",
+      "organic": 15568,
+      "google": 2707,
+      "googlePct": 17.4
+    },
+    {
+      "month": "2026-06",
+      "organic": 13689,
+      "google": 2517,
+      "googlePct": 18.4
+    }
+  ],
+  "ctrByPosition": {
+    "buckets": [
+      {
+        "label": "1–3",
+        "queries": 2703,
+        "shows": 12517,
+        "clicks": 2378,
+        "ctrPct": 19
+      },
+      {
+        "label": "4–10",
+        "queries": 17237,
+        "shows": 102650,
+        "clicks": 2556,
+        "ctrPct": 2.49
+      },
+      {
+        "label": "11–20",
+        "queries": 6370,
+        "shows": 23975,
+        "clicks": 227,
+        "ctrPct": 0.95
+      },
+      {
+        "label": "21–30",
+        "queries": 542,
+        "shows": 1642,
+        "clicks": 8,
+        "ctrPct": 0.49
+      }
+    ],
+    "totalQueries": 27229,
+    "zeroClicks": {
+      "showsPct": 76.7
+    },
+    "sites": 12
+  }
+}

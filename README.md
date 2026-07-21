@@ -10,3 +10,20 @@
 
 Лицензия: CC BY 4.0 — используйте свободно со ссылкой на
 https://private-seo.ru/issledovaniya
+
+## Кто мы
+
+Данные собирает [PrivateSEO](https://private-seo.ru) — агентство SEO- и GEO-продвижения.
+Основатель — [Эдуард Трубченинов](https://private-seo.ru/eduard-trubcheninov)
+([@eduardtr95](https://github.com/eduardtr95)).
+
+Эти же цифры мы используем в коммерческих отчётах клиентам — подделка данных
+стоила бы нам бизнеса. Журналистам и исследователям по запросу показываем
+выгрузку из Яндекс.Метрики вживую: [контакты](https://private-seo.ru/contacts).
+
+## Структура данных
+
+- `research.json` — актуальный срез: `aiTraffic` (помесячные визиты из нейросетей,
+  доля от органики, n сайтов), `enginesShare` (доля Google в органике по месяцам),
+  `ctrByPosition` (CTR по позициям Яндекса + доля нулевых кликов)
+- `snapshots/research-YYYY-MM-DD.json` — история еженедельных срезов

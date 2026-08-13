@@ -27,3 +27,7 @@ https://private-seo.ru/issledovaniya
   доля от органики, n сайтов), `enginesShare` (доля Google в органике по месяцам),
   `ctrByPosition` (CTR по позициям Яндекса + доля нулевых кликов)
 - `snapshots/research-YYYY-MM-DD.json` — история еженедельных срезов
+- `research-celi-metriki.json` — разовый аудит 305 целей Яндекс Метрики на 12 сайтах
+  (август 2026): структура целей, достижения из органики, разброс доли «намерений»
+  по проектам. Снапшот, не обновляется. Разбор и графики:
+  https://private-seo.ru/issledovaniya/celi-metriki

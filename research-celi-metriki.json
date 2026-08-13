@@ -1,0 +1,57 @@
+{
+  "title": "Цели есть, а заявок не видно: аудит 305 целей Яндекс Метрики",
+  "publishedAt": "2026-08-11",
+  "type": "snapshot",
+  "updatePolicy": "Разовый аудит: числа зафиксированы на дату публикации и не обновляются.",
+  "page": "https://private-seo.ru/issledovaniya/celi-metriki",
+  "license": "CC BY 4.0 — https://private-seo.ru/issledovaniya/celi-metriki",
+  "method": {
+    "source": "PrivateSEO Pulse / Yandex Metrica API",
+    "sites": 12,
+    "window_start": "2026-04-24",
+    "window_end": "2026-07-22",
+    "window_days": 90,
+    "minimum_reaches_for_project_comparison": 20,
+    "notes": "Классификация по названию и назначению цели (без проверки механики срабатывания каждой цели в браузере): outcome — результат (отправленная форма, заказ, покупка, звонок, лид, страница «Спасибо»), intent — намерение (клик по телефону или почте, переход в мессенджер, копирование контакта), other — прочее (регистрация на вебинар, запрос прайс-листа, тестовая форма). Достижения — из органического поиска за 90 дней."
+  },
+  "all_goals": {
+    "count": 305,
+    "average_per_site": 25.4,
+    "median_per_site": 23.5,
+    "minimum_per_site": 5,
+    "maximum_per_site": 53
+  },
+  "selected_goals": {
+    "count": 67,
+    "outcome": 33,
+    "intent": 31,
+    "other": 3,
+    "intent_share": 46.3,
+    "sites_with_multiple_outcome_goals": 10
+  },
+  "organic_reaches": {
+    "count": 3036,
+    "outcome": 1985,
+    "intent": 1047,
+    "other": 4,
+    "intent_share": 34.5,
+    "all_vs_outcome_excess": 52.9
+  },
+  "project_comparison": {
+    "qualified_projects": 8,
+    "average_intent_share": 55.1,
+    "median_intent_share": 54.9,
+    "minimum_intent_share": 14.0,
+    "maximum_intent_share": 89.4,
+    "projects": [
+      { "project": "Проект 1", "total": 47, "intent": 42, "intent_share": 89.4 },
+      { "project": "Проект 2", "total": 28, "intent": 25, "intent_share": 89.3 },
+      { "project": "Проект 3", "total": 175, "intent": 145, "intent_share": 82.9 },
+      { "project": "Проект 4", "total": 37, "intent": 26, "intent_share": 70.3 },
+      { "project": "Проект 5", "total": 38, "intent": 15, "intent_share": 39.5 },
+      { "project": "Проект 6", "total": 1497, "intent": 581, "intent_share": 38.8 },
+      { "project": "Проект 7", "total": 1142, "intent": 191, "intent_share": 16.7 },
+      { "project": "Проект 8", "total": 43, "intent": 6, "intent_share": 14.0 }
+    ]
+  }
+}

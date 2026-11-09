@@ -1,0 +1,512 @@
+{
+  "updatedAt": "2026-11-09",
+  "methodologyVersion": "1.2",
+  "windowDays": 90,
+  "aiTraffic": {
+    "monthly": [
+      {
+        "month": "2025-11",
+        "visits": 33,
+        "organicVisits": 55258,
+        "sites": 13,
+        "sharePct": 0.06,
+        "perSite": 2.5
+      },
+      {
+        "month": "2025-12",
+        "visits": 39,
+        "organicVisits": 77752,
+        "sites": 14,
+        "sharePct": 0.05,
+        "perSite": 2.8
+      },
+      {
+        "month": "2026-01",
+        "visits": 35,
+        "organicVisits": 176872,
+        "sites": 15,
+        "sharePct": 0.02,
+        "perSite": 2.3
+      },
+      {
+        "month": "2026-02",
+        "visits": 36,
+        "organicVisits": 58323,
+        "sites": 15,
+        "sharePct": 0.062,
+        "perSite": 2.4
+      },
+      {
+        "month": "2026-03",
+        "visits": 31,
+        "organicVisits": 62719,
+        "sites": 16,
+        "sharePct": 0.049,
+        "perSite": 1.9
+      },
+      {
+        "month": "2026-04",
+        "visits": 26,
+        "organicVisits": 55959,
+        "sites": 15,
+        "sharePct": 0.046,
+        "perSite": 1.7
+      },
+      {
+        "month": "2026-05",
+        "visits": 40,
+        "organicVisits": 58002,
+        "sites": 15,
+        "sharePct": 0.069,
+        "perSite": 2.7
+      },
+      {
+        "month": "2026-06",
+        "visits": 55,
+        "organicVisits": 51532,
+        "sites": 16,
+        "sharePct": 0.107,
+        "perSite": 3.4
+      },
+      {
+        "month": "2026-07",
+        "visits": 36,
+        "organicVisits": 51872,
+        "sites": 16,
+        "sharePct": 0.069,
+        "perSite": 2.3
+      },
+      {
+        "month": "2026-08",
+        "visits": 61,
+        "organicVisits": 48190,
+        "sites": 16,
+        "sharePct": 0.127,
+        "perSite": 3.8
+      },
+      {
+        "month": "2026-09",
+        "visits": 84,
+        "organicVisits": 61866,
+        "sites": 15,
+        "sharePct": 0.136,
+        "perSite": 5.6
+      },
+      {
+        "month": "2026-10",
+        "visits": 30,
+        "organicVisits": 52849,
+        "sites": 14,
+        "sharePct": 0.057,
+        "perSite": 2.1
+      }
+    ],
+    "last90": {
+      "aiVisits": 159,
+      "organicVisits": 148374,
+      "sharePct": 0.11
+    },
+    "engines": [
+      {
+        "name": "ChatGPT",
+        "visits": 123
+      },
+      {
+        "name": "Perplexity",
+        "visits": 20
+      },
+      {
+        "name": "Gemini",
+        "visits": 13
+      },
+      {
+        "name": "Другие",
+        "visits": 3
+      }
+    ],
+    "landings": {
+      "home": 28,
+      "inner": 117,
+      "blog": 14
+    },
+    "sites": 15
+  },
+  "enginesShare": [
+    {
+      "month": "2025-10",
+      "organic": 55573,
+      "google": 36676,
+      "googlePct": 66
+    },
+    {
+      "month": "2025-11",
+      "organic": 55258,
+      "google": 37496,
+      "googlePct": 67.9
+    },
+    {
+      "month": "2025-12",
+      "organic": 77752,
+      "google": 45863,
+      "googlePct": 59
+    },
+    {
+      "month": "2026-01",
+      "organic": 176872,
+      "google": 39952,
+      "googlePct": 22.6
+    },
+    {
+      "month": "2026-02",
+      "organic": 58323,
+      "google": 33932,
+      "googlePct": 58.2
+    },
+    {
+      "month": "2026-03",
+      "organic": 62719,
+      "google": 34990,
+      "googlePct": 55.8
+    },
+    {
+      "month": "2026-04",
+      "organic": 55959,
+      "google": 30965,
+      "googlePct": 55.3
+    },
+    {
+      "month": "2026-05",
+      "organic": 58002,
+      "google": 31764,
+      "googlePct": 54.8
+    },
+    {
+      "month": "2026-06",
+      "organic": 51532,
+      "google": 26166,
+      "googlePct": 50.8
+    },
+    {
+      "month": "2026-07",
+      "organic": 51872,
+      "google": 25188,
+      "googlePct": 48.6
+    },
+    {
+      "month": "2026-08",
+      "organic": 48190,
+      "google": 23785,
+      "googlePct": 49.4
+    },
+    {
+      "month": "2026-09",
+      "organic": 61866,
+      "google": 30038,
+      "googlePct": 48.6
+    },
+    {
+      "month": "2026-10",
+      "organic": 52849,
+      "google": 22848,
+      "googlePct": 43.2
+    }
+  ],
+  "ctrByPosition": {
+    "buckets": [
+      {
+        "label": "1–3",
+        "queries": 6569,
+        "shows": 32519,
+        "clicks": 6000,
+        "ctrPct": 18.45
+      },
+      {
+        "label": "4–10",
+        "queries": 38522,
+        "shows": 357692,
+        "clicks": 6783,
+        "ctrPct": 1.9
+      },
+      {
+        "label": "11–20",
+        "queries": 17479,
+        "shows": 182254,
+        "clicks": 3782,
+        "ctrPct": 2.08
+      },
+      {
+        "label": "21–30",
+        "queries": 761,
+        "shows": 5257,
+        "clicks": 29,
+        "ctrPct": 0.55
+      }
+    ],
+    "totalQueries": 63801,
+    "zeroClicks": {
+      "showsPct": 65
+    },
+    "sites": 16
+  },
+  "googleIndex": {
+    "sample": "статьи блога private-seo.ru",
+    "totalPages": 181,
+    "checkedPages": 181,
+    "googleIndexed": 171,
+    "yandexIndexed": 138,
+    "states": [
+      {
+        "state": "Submitted and indexed",
+        "pages": 171
+      },
+      {
+        "state": "Crawled - currently not indexed",
+        "pages": 10
+      }
+    ]
+  },
+  "marketplaces": {
+    "engine": "yandex",
+    "snapshotDate": "2026-10-08",
+    "domains": [
+      "Ozon",
+      "Wildberries",
+      "Яндекс.Маркет",
+      "Avito",
+      "AliExpress",
+      "МегаМаркет",
+      "Lamoda",
+      "Юла"
+    ],
+    "niches": [
+      {
+        "label": "Климатическая техника (интернет-магазин)",
+        "type": "товары",
+        "queries": 30743,
+        "slotsPct": 8.3,
+        "queriesTop10Pct": 46.5,
+        "queriesTop3Pct": 25.4
+      },
+      {
+        "label": "Промышленные роботы (B2B)",
+        "type": "B2B",
+        "queries": 2818,
+        "slotsPct": 7.3,
+        "queriesTop10Pct": 38.4,
+        "queriesTop3Pct": 24.8
+      },
+      {
+        "label": "CAD-софт",
+        "type": "софт",
+        "queries": 312,
+        "slotsPct": 3.7,
+        "queriesTop10Pct": 29.8,
+        "queriesTop3Pct": 9.9
+      },
+      {
+        "label": "SMS-рассылки (B2B-сервис)",
+        "type": "B2B",
+        "queries": 576,
+        "slotsPct": 0.2,
+        "queriesTop10Pct": 2.1,
+        "queriesTop3Pct": 0.7
+      },
+      {
+        "label": "AI-тестирование (SaaS)",
+        "type": "SaaS",
+        "queries": 189,
+        "slotsPct": 0.1,
+        "queriesTop10Pct": 0.5,
+        "queriesTop3Pct": 0.5
+      },
+      {
+        "label": "Таск-трекер (SaaS)",
+        "type": "SaaS",
+        "queries": 151,
+        "slotsPct": 0,
+        "queriesTop10Pct": 0,
+        "queriesTop3Pct": 0
+      }
+    ],
+    "totals": {
+      "niches": 6,
+      "queries": 34789,
+      "slotsPct": 7.9,
+      "queriesTop10Pct": 44.5,
+      "queriesTop3Pct": 24.5
+    }
+  },
+  "organicConversion": {
+    "periodFrom": "2025-11-08",
+    "periodTo": "2026-11-08",
+    "metric": "target_visits",
+    "definition": "Визиты с хотя бы одной выбранной целью; не уникальные заявки. Поля leads сохранены для совместимости.",
+    "sites": 12,
+    "projectsCounted": 10,
+    "visits": 302711,
+    "leads": 5935,
+    "crPct": 1.96,
+    "per1000": 19.6,
+    "medianCrPct": 1.57,
+    "minCrPct": 0.04,
+    "maxCrPct": 3.4,
+    "q1CrPct": 0.84,
+    "q3CrPct": 2.78,
+    "byKind": [
+      {
+        "kind": "интернет-магазины",
+        "projects": 3,
+        "visits": 211445,
+        "leads": 4980,
+        "crPct": 2.36
+      },
+      {
+        "kind": "B2B и SaaS",
+        "projects": 4,
+        "visits": 31639,
+        "leads": 313,
+        "crPct": 0.99
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-12",
+        "visits": 25408,
+        "leads": 558,
+        "crPct": 2.2
+      },
+      {
+        "month": "2026-01",
+        "visits": 12089,
+        "leads": 140,
+        "crPct": 1.16
+      },
+      {
+        "month": "2026-02",
+        "visits": 24637,
+        "leads": 663,
+        "crPct": 2.69
+      },
+      {
+        "month": "2026-03",
+        "visits": 27390,
+        "leads": 639,
+        "crPct": 2.33
+      },
+      {
+        "month": "2026-04",
+        "visits": 28521,
+        "leads": 633,
+        "crPct": 2.22
+      },
+      {
+        "month": "2026-05",
+        "visits": 32059,
+        "leads": 648,
+        "crPct": 2.02
+      },
+      {
+        "month": "2026-06",
+        "visits": 30511,
+        "leads": 559,
+        "crPct": 1.83
+      },
+      {
+        "month": "2026-07",
+        "visits": 31028,
+        "leads": 556,
+        "crPct": 1.79
+      },
+      {
+        "month": "2026-08",
+        "visits": 26720,
+        "leads": 484,
+        "crPct": 1.81
+      },
+      {
+        "month": "2026-09",
+        "visits": 27351,
+        "leads": 472,
+        "crPct": 1.73
+      },
+      {
+        "month": "2026-10",
+        "visits": 19324,
+        "leads": 188,
+        "crPct": 0.97
+      }
+    ],
+    "excludedMonths": [
+      {
+        "month": "2026-01",
+        "timesMedian": 11.4,
+        "crPct": 0.4
+      },
+      {
+        "month": "2026-09",
+        "timesMedian": 11,
+        "crPct": 0
+      },
+      {
+        "month": "2026-10",
+        "timesMedian": 10.6,
+        "crPct": 0
+      }
+    ],
+    "engines": {
+      "yandex": {
+        "visits": 144959,
+        "leads": 1696,
+        "crPct": 1.17
+      },
+      "google": {
+        "visits": 57441,
+        "leads": 714,
+        "crPct": 1.24
+      },
+      "medianRatio": 0.94,
+      "googleBetterProjects": 4,
+      "comparedProjects": 8
+    },
+    "pageTypes": {
+      "blog": {
+        "visits": 21506,
+        "leads": 114,
+        "crPct": 0.53
+      },
+      "commercial": {
+        "visits": 76364,
+        "leads": 1007,
+        "crPct": 1.32
+      },
+      "medianRatioPct": 16,
+      "comparedProjects": 5
+    },
+    "devices": [
+      {
+        "name": "Smartphones",
+        "visits": 103204,
+        "leads": 1258,
+        "crPct": 1.22
+      },
+      {
+        "name": "PC",
+        "visits": 98383,
+        "leads": 1138,
+        "crPct": 1.16
+      },
+      {
+        "name": "Tablets",
+        "visits": 1781,
+        "leads": 22,
+        "crPct": 1.24
+      }
+    ]
+  },
+  "staleBlocks": [
+    {
+      "block": "marketplaces",
+      "since": "2026-10-26"
+    }
+  ]
+}
